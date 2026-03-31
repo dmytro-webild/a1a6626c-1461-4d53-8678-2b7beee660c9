@@ -211,7 +211,7 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Sarah Miller",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-digital-tablet-waiting-area_107420-95825.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-digital-tablet-waiting-area_107420-95825.jpg?_wi=1",
         },
         {
           id: "2",
@@ -231,7 +231,7 @@ export default function LandingPage() {
         {
           id: "5",
           name: "Elena R.",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-digital-tablet-waiting-area_107420-95825.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-digital-tablet-waiting-area_107420-95825.jpg?_wi=2",
         },
       ]}
       cardTitle="Guest Experiences"
